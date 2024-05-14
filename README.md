@@ -11,7 +11,7 @@ To run the generator, run the following command
 ```
   python generator.py
 ```
-#### Or
+#### OR
 
 To run the generator with a fixed randomness (using seed), run the following command. For example, first argument as a seed which is 42.
 
@@ -27,5 +27,5 @@ To run the test, run the following command. For example, 42 as the initial posit
 
 ## Test Result
 
-![Result](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Result](OS.png)
 
